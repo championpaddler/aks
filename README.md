@@ -10,4 +10,6 @@ Project Setup :
 2. npm install to install dependencies
 3. node index.js to run the server
 
+Notes: 
+Auth Token Needs to be Set as : Authorization {token}
 Screenshots can be find inside the screenshot folder
