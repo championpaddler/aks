@@ -17,7 +17,7 @@
 				"ejs": "2.4.1",
 				"errorhandler": "1.4.3",
 				"express": "^4.17.1",
-				"express-jwt": "3.3.0",
+				"express-jwt": "6.0.0",
 				"jsonwebtoken": "^7.1.9",
 				"messagebird": "^3.5.0",
 				"mongoose": "^4.4.10",
